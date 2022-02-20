@@ -42,8 +42,7 @@ TODO: Write history
 
 ## License
 
-TODO: Write license
-
+All of my code in this project is MIT Licensed - see the LICENSE file for details. Any submodules follow their own licensing.
 
 [n-link]: https://lights0123.com/n-link/
 [luna]: https://github.com/ndless-nspire/Luna
